@@ -3,7 +3,6 @@ Detecting warped text from historical maps and images with the help of azure AI 
 
 ## Warped Text Detection from historical maps 
 Detecting warped text from historical maps is a complex yet fascinating challenge that holds significant importance for historical research and preservation. These maps often contain crucial geographical, cultural, and socio-political information that has been distorted over time due to aging, environmental factors, and the methods used in their creation.
-
 [Demo Day Registration Slide deck template](https://stdntpartners-my.sharepoint.com/:p:/g/personal/divyansh_goyal_studentambassadors_com/ESB9r3XwlSlBjHpQe9SkhIoBVf38Xonrm7K8TEgPECHMHQ?e=8AhAfA)
 
 ## Potential Solution
