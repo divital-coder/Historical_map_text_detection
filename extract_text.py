@@ -14,7 +14,7 @@ except KeyError:
     print("Set them before running this sample.")
     exit()
 
-# Create an Image Analysis client
+#Create an Image Analysis client
 client = ImageAnalysisClient(
     endpoint=endpoint,
     credential=AzureKeyCredential(key)
